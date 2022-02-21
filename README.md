@@ -4,8 +4,8 @@ Recommended Settings Files to use GenyMotion in Game/App Development Mode
 Make it easier!
 Simple and Easy Instructions.
 
-![aadn2](https://img.shields.io/github/checks-status/pnickolasubuntu/Android-Pro/master?style=plastic)
 
+ 
 ## Normal Installation.
 
 Download The Latest .ZIP File 
