@@ -71,9 +71,6 @@ adb shell "/system/bin/flash-archive.sh /sdcard/Download/open_gapps-x86-X.X-pico
 
 When flashing is complete, reboot the virtual device.
 
-## Youtube Tutorial
-
-
 ## License
 
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
