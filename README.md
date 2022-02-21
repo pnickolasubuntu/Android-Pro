@@ -4,7 +4,7 @@ Recommended Settings Files to use GenyMotion in Game/App Development Mode
 Make it easier!
 Simple and Easy Instructions.
 
-
+![NORMAL](https://img.shields.io/badge/Price-FREE-blue) ![NORMAL](https://img.shields.io/badge/build-passing-brightgreen)
  
 ## Normal Installation.
 
